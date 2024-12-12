@@ -9,17 +9,19 @@ This repository contains the machine learning models and related assets for the 
 - Compare UPC-scanned products with daily intake recommendations for fat, sugar, or sodium.
 
 #### 1. **Dataset Information**
-- **Raw Data:** Original datasets used for training and testing the models.
+- **Source:** 
 	1. Dataset for BMI Model Training (consist of weight, height, and sex)
 	2. Dataset for Total Daily Nutrition Prediction Training (consist of weight, height 
 	   (get the predicted BMI from the previous model), age, sex, and adding base 
            information for nutritional intake from Permenkes No 28 Tahun 2019) 
 	3. Dataset for UPC barcode [UPC Barcode](https://github.com/ScanEat-team/ml-deliverables/tree/main/current%20use%20model/dataset)
-- **Processed Data:** Preprocessed datasets (e.g., normalized, cleaned, feature-engineered versions).
 
 #### 2. **Code**
 - **Data Preparation Scripts:**
-  - Scripts for data cleaning, feature extraction, and transformation.
+  - BMI Prediction
+    <img src= https://github.com/ScanEat-team/ml-deliverables/blob/main/current%20use%20model/pict/1_data_prepocessing.png/>
+  - Daily Nutritional Prediction 
+    
   - Code to derive user-specific features like age from birthdate.
 - **Model Training:**
   - Jupyter notebooks or Python scripts for training each model.
@@ -45,11 +47,6 @@ This repository contains the machine learning models and related assets for the 
   - Dataset preprocessing techniques.
   - Hyperparameters and tuning strategies.
 - **Contributors:** Names and roles of project contributors.
-
-#### 5. **Environment Setup**
-- `requirements.txt` for Python dependencies.
-- Environment configuration files (e.g., `.env` or `.yaml`).
-- Dockerfile or containerization details (if applicable).
 
 #### 6. **Testing**
 - Unit tests for scripts and modules.
