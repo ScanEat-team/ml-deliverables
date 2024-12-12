@@ -19,7 +19,7 @@ This repository contains the machine learning models and related assets for the 
 #### 2. **Code**
 - **Data Preparation Scripts:**
   - BMI Prediction
-    <img src= https://github.com/ScanEat-team/ml-deliverables/blob/main/current%20use%20model/pict/1_data_prepocessing.png/>
+    <img src= https://github.com/ScanEat-team/ml-deliverables/blob/main/current%20use%20model/pict/1_data_prepocessing.png/ height=10>
   - Daily Nutritional Prediction 
     
   - Code to derive user-specific features like age from birthdate.
