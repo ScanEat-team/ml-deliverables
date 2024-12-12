@@ -20,9 +20,15 @@ This repository contains the machine learning models and related assets for the 
 - **Data Preparation Scripts:**
   - BMI Prediction
     <img src= https://github.com/ScanEat-team/ml-deliverables/blob/main/current%20use%20model/pict/1_data_prepocessing.png/>
-  - Daily Nutritional Prediction 
+  - Daily Nutritional Prediction
+    <img src=https://github.com/ScanEat-team/ml-deliverables/blob/main/current%20use%20model/pict/2_Preprocessing%20Nutritional%20Intake.png/>
+  - Getting Nutritional Intake Value from Permenkes No 28 Tahun 2019 Tentang Angka Kecukupan Gizi Yang Dianjurkan Untuk Masyarakat Indonesia
+    <img src= https://github.com/ScanEat-team/ml-deliverables/blob/main/current%20use%20model/pict/3.png />
+    <img src= https://github.com/ScanEat-team/ml-deliverables/blob/main/current%20use%20model/pict/4.png />
+    <img src= https://github.com/ScanEat-team/ml-deliverables/blob/main/current%20use%20model/pict/5.png/>
+    <img src= https://github.com/ScanEat-team/ml-deliverables/blob/main/current%20use%20model/pict/6.png/>
+    <img src= https://github.com/ScanEat-team/ml-deliverables/blob/main/current%20use%20model/pict/7.png/> 
     
-  - Code to derive user-specific features like age from birthdate.
 - **Model Training:**
   - Jupyter notebooks or Python scripts for training each model.
   - Hyperparameter configurations.
@@ -33,8 +39,12 @@ This repository contains the machine learning models and related assets for the 
 
 #### 3. **Model Files**
 - Trained model weights (.h5, .pkl, or similar formats).
-- Model architecture definitions.
-- Version control for models (e.g., changelog or version history).
+	[`BMI prediction model`](https://github.com/ScanEat-team/ml-deliverables/blob/main/future%20development/Model_BMI.h5/)
+	[`Total Calories Daily Intake`](https://github.com/ScanEat-team/ml-deliverables/blob/main/future%20development/Model_kcal.h5/)
+	[`Total Sugar Daily Intake`](https://github.com/ScanEat-team/ml-deliverables/blob/main/future%20development/Model_sugar.h5)
+	[`Total Sodium Daily Intake`](https://github.com/ScanEat-team/ml-deliverables/blob/main/future%20development/Model_sodium.h5/)
+	[`Total Fat Daily Intake`](https://github.com/ScanEat-team/ml-deliverables/blob/main/future%20development/Model_fat.h5/)
+
 
 #### 4. **Documentation**
 - **Project Overview:** Objectives and scope.
