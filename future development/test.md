@@ -31,6 +31,13 @@ This repository contains the machine learning models and related assets for the 
     
 - **Model Training:**
   - Jupyter notebooks or Python scripts for training each model.
+    <img src= https://github.com/ScanEat-team/ml-deliverables/blob/main/current%20use%20model/pict/8.png />
+    <img src= https://github.com/ScanEat-team/ml-deliverables/blob/main/current%20use%20model/pict/9.png />
+    <img src= https://github.com/ScanEat-team/ml-deliverables/blob/main/current%20use%20model/pict/10.png/>
+    <img src= https://github.com/ScanEat-team/ml-deliverables/blob/main/current%20use%20model/pict/11.png/>
+    <img src= https://github.com/ScanEat-team/ml-deliverables/blob/main/current%20use%20model/pict/12.png/> 
+    <img src= https://github.com/ScanEat-team/ml-deliverables/blob/main/current%20use%20model/pict/13.png/> 
+    
   - Hyperparameter configurations.
 - **Model Evaluation:**
   - Scripts for evaluating model performance (e.g., accuracy, precision, recall, RMSE).
